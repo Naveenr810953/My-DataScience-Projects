@@ -6,7 +6,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.datasets import load_breast_cancer
 import warnings            
             
-# Suppress warnings for a cleaner output  
+# Suppress warnings for a cleaner output   
 warnings.filterwarnings('ignore')
 
 # --- 1. Load Data and Train the Model (Backend) ---
